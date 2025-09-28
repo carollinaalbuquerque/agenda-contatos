@@ -1,0 +1,38 @@
+body {
+font-family: Arial, sans-serif;
+margin: 20px;
+background-color: #f5f5f5;
+}
+
+h1 {
+text-align: center;
+}
+
+form {
+display: flex;
+justify-content: center;
+gap: 10px;
+margin-bottom: 20px;
+}
+
+input, button {
+padding: 8px;
+font-size: 14px;
+}
+
+table {
+margin: 0 auto;
+width: 60%;
+border-collapse: collapse;
+}
+
+th, td {
+border: 1px solid #ddd;
+padding: 10px;
+text-align: center;
+}
+
+th {
+background-color: #4CAF50;
+color: white;
+}
